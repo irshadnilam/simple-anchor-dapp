@@ -2,12 +2,14 @@
 seeds = false
 [programs.localnet]
 simple_anchor_dapp = "GZ2Tyz9Ny5hsunTuydpHHXNppY86cH5zNVBHFrwCJEyB"
+[programs.devnet]
+simple_anchor_dapp = "66aoA3njN9pM3WyaaVr3PcLViq6aZycPR3Pf4bz3qtCU"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/irshad/.config/solana/id.json"
 
 [scripts]

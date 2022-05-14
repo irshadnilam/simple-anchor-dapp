@@ -7,7 +7,7 @@ pub mod state;
 
 use instructions::*;
 
-declare_id!("GZ2Tyz9Ny5hsunTuydpHHXNppY86cH5zNVBHFrwCJEyB");
+declare_id!("66aoA3njN9pM3WyaaVr3PcLViq6aZycPR3Pf4bz3qtCU");
 
 #[program]
 pub mod simple_anchor_dapp {
